@@ -9,10 +9,10 @@ function App() {
   return (
     <>
     <div className='pages'>
-      
-    <NavLink to='/about'>About</NavLink>
-    <NavLink to='/work'>Work</NavLink>
-    <NavLink to='/contact'>Contact</NavLink>
+  
+      <NavLink to='/work'>Samples</NavLink>
+      <NavLink to='/about'>About</NavLink>
+      <NavLink to='/contact'>Contact</NavLink>
 
     </div>
 
